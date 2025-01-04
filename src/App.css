@@ -18,7 +18,7 @@
   display: flex;
   padding: 0px;
   position: sticky;
-  top: 0;
+  top: 85px;
   z-index: 20;
   background-color: rgb(227, 215, 241);
   border-bottom: 4px solid #907a1c; /* 아래쪽 테두리 */

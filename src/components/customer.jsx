@@ -3,8 +3,6 @@ import "../App.css";
 import ClickableDiv from "./divClick";
 import PClick from "./pClick";
 
-import { selectClasses } from "@mui/material";
-
 function Customer(props) {
   const [bgColor, setBgColor] = ClickableDiv(null);
   const [hoveredElement, setHoveredElement] = PClick();
